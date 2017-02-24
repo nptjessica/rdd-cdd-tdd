@@ -10,7 +10,8 @@
         - Alternatives
     - [Meow](#meow)
     - [Chalk](#chalk)
-    - [Update-notifier](update-notifier)
+    - [Update-notifier](#update-notifier)
+    - [yql](#yql)
 
 ## Introduction
 
@@ -88,4 +89,10 @@ node-yql is a YQL (Yahoo Query Language) client for node.js
 
 ```sh
 ❯ npm install yql
+```
+
+###[lodash](https://www.npmjs.com/package/lodash)
+```sh
+❯ npm i -g npm
+❯ npm i --save lodash
 ```
